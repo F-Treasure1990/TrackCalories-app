@@ -174,8 +174,7 @@ const UICtrl = (function () {
           <a href="#" class="secondary-content">
           <i class="edit-item fa fa-pencil"></i></a>
       `
-  
-      //insert item 
+    //insert item 
       document.querySelector(UISelectors.itemList).insertAdjacentElement('beforeend', li)
     },
 

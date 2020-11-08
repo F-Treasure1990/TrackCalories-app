@@ -1,4 +1,4 @@
-//SECTION --- Storage Controller ---
+//SECTION --- Storage Controller ---*
 
 //SECTION --- Item Controller ---
 const ItemCtrl = (function () {
